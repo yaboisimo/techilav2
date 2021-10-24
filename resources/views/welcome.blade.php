@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -679,7 +678,7 @@
                 </li>
             </ul>
             <p class="block m-0 text-base font-semibold text-gray-500">
-                Copyright © 2021 Tails
+                Copyright © 2021 Techila
             </p>
         </div>
     </div>
